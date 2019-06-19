@@ -52,7 +52,7 @@
 ### Others
 > 個人編輯頁面UI翻新(目前太醜)，參考大苑子，左邊加入小icon
 ---
-### 不在進度內
+### Programming細節
 > 演算法優化。例:filter函式為線性，binarySearch為非線性快很多，但要看狀況用。
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
