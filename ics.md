@@ -54,7 +54,7 @@
 ---
 ### Programming細節
 - 演算法。例:filter函式為線性，binarySearch為非線性快很多，但要看狀況用。
-- lazy節省記憶體開銷 (https://medium.com/@abhimuralidharan/lazy-var-in-ios-swift-96c75cb8a13a)。
+- lazy節省記憶體開銷 (https://medium.com/@abhimuralidharan/lazy-var-in-ios-swift-96c75cb8a13a)。(https://useyourloaf.com/blog/swift-lazy-property-initialization/)
 - 閉包迴圈引用記憶體管理(https://www.itread01.com/content/1545906088.html)。
 ---
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
