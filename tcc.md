@@ -15,18 +15,6 @@ ___
 
 
 
-## Api
-
-1. [link http://www.tcc.gov.tw:8080/Agenda/GenerateXML.aspx?option=todayplan](http://www.tcc.gov.tw:8080/Agenda/GenerateXML.aspx?option=todayplan) 
-2. [link http://www.tcc.gov.tw:8080/Agenda/GenerateXML2.aspx?option=conventionplan2](http://www.tcc.gov.tw:8080/Agenda/GenerateXML2.aspx?option=conventionplan2)
-3. [link http://www.tcc.gov.tw:8080/Agenda/GenerateXML.aspx?option=queslist](http://www.tcc.gov.tw:8080/Agenda/GenerateXML.aspx?option=queslist)
-
-
-___
-___
-## 手機版網站
-[link http://www.tcc.gov.tw/pda/AgendaWeek.aspx?s=5&h=600](http://www.tcc.gov.tw/pda/AgendaWeek.aspx?s=5&h=600)
-
 
 
 
